@@ -1,0 +1,1 @@
+My name is Mohamad Ghazia. I am a Computer Science student at La Salle University. I am interested in software development and learning how real-world software projects are built. I am currently working on improving my programming, Git, and GitHub skills through CSC 381.
